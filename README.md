@@ -100,7 +100,13 @@ python agent.py
 
 ## Screenshots
 
-_Add screenshots of the chat interface and analytics dashboard here._
+**Chat interface** — ask a question and watch the full agent pipeline (intent analysis → retrieval → judgment → crawling → OCR → generation) stream back in real time.
+
+![Chat interface](docs/screenshots/chat.png)
+
+**Analytics dashboard** — retrieval/generation latency, token statistics and trends.
+
+![Analytics dashboard](docs/screenshots/dashboard.png)
 
 ## License
 
