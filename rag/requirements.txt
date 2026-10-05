@@ -1,0 +1,8 @@
+langchain-huggingface
+langchain-community
+langchain
+transformers
+torch
+uvicorn
+fastapi
+pydantic
